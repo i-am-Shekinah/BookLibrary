@@ -1,4 +1,6 @@
 package org.library;
+import org.library.entity.User;
+
 import java.util.PriorityQueue;
 
 public class Librarian extends User {

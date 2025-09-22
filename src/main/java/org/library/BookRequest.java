@@ -1,5 +1,7 @@
 package org.library;
 
+import org.library.entity.User;
+
 import java.time.LocalDateTime;
 
 public class BookRequest {

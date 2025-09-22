@@ -1,5 +1,9 @@
 package org.library;
 
+import org.library.entity.Student;
+import org.library.entity.Teacher;
+import org.library.entity.User;
+
 import java.util.Comparator;
 
 

@@ -1,6 +1,9 @@
 package org.library;
 
 import org.junit.jupiter.api.Test;
+import org.library.entity.Student;
+import org.library.entity.Teacher;
+import org.library.entity.User;
 
 import static org.junit.jupiter.api.Assertions.*;
 
